@@ -473,6 +473,7 @@ class Grid(object):
 		msg = self.smallfont.render("Esc to pause, F1 for new game", 1, white)
 		screen.blit(msg, (230, 330))
 
+		screen.blit(self.smallfont.render("ver 0.2", 1, white), (230, 350))
 
 	def draw_game_over(self):
 
