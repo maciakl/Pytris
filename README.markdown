@@ -1,7 +1,12 @@
 PyTris: Python Tetris
 ===
 
-PyTris is a Tetris clone written entirely in Python. The game leverages the PyGame framework for 2D graphics generation. 
+PyTris is a Tetris clone written entirely in Python. The game leverages the PyGame framework for 2D graphics generation.
+
+Screenshot
+---
+
+![PyTris Screenshot](screenshot.jpg)
 
 Design and Implementation Details
 ---
