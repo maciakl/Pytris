@@ -5,6 +5,13 @@ PyTris is a Tetris clone written entirely in Python. The game leverages the PyGa
 
 ![PyTris Screenshot](https://github.com/maciakl/Pytris/raw/master/screenshot.jpg)
 
+Download
+---
+
+You can download a stand-alone windows version from the link below. No Python or Pygame required. Simply download and play.
+
+  - [PyTris for Windows](https://github.com/downloads/maciakl/Pytris/PyTris.exe)
+
 Design and Implementation Details
 ---
 
